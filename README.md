@@ -1,10 +1,10 @@
 # TiArt
 ## 项目作者
-shonge
+[shonge](https://github.com/shonge/tiart/tree/main)
 ## 项目进展
 开发中
 ## 项目介绍
-基于TiDB-Dashboard Key-visual实现绘画功能
+基于 [TiDB Dashboard Key-visual](https://github.com/pingcap/tidb-dashboard/tree/master/pkg/keyvisual) 实现绘画功能
 ## 项目背景&动机
 Just for fun
 ## 项目设计
